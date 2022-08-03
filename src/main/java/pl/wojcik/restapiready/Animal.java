@@ -11,6 +11,7 @@ import javax.persistence.Id;
 @Getter
 @Setter
 @Entity
+
 public class Animal {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
