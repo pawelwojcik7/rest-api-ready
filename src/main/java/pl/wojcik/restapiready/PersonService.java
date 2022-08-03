@@ -9,4 +9,8 @@ public class PersonService {
         System.out.println("Dawid2");
 
     }
+    public void function3(){
+        System.out.println("Dawid2");
+
+    }
 }
