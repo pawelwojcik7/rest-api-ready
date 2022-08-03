@@ -6,4 +6,9 @@ public class PersonService {
         System.out.println("Pawel");
 
     }
+    public void function1()
+    {
+        System.out.println("Pawel");
+
+    }
 }
