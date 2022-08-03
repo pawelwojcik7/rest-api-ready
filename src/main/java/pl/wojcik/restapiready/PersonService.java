@@ -13,4 +13,9 @@ public class PersonService {
         System.out.println("Dawid2");
 
     }
+
+    public void function4(){
+        System.out.println("Dawid4");
+
+    }
 }
